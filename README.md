@@ -6,7 +6,7 @@ Co-Workers TODO:
 
 Create classes with methods including:
 
-statements
+ statements
 break
 case
 continue
@@ -21,7 +21,8 @@ return
 switch
 throw
 try-catch-finally
-enhanced statements
+
+  enhanced statements
 e.g. for-loop
 date and time
 of
