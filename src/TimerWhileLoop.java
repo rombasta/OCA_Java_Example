@@ -1,6 +1,6 @@
 import java.util.Date;
 import java.util.Scanner;
-
+//test
 public class TimerWhileLoop {
     private static void startTimer(int chosenSek) throws InterruptedException {
         Date now = new Date();

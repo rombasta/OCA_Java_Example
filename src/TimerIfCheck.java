@@ -2,7 +2,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 import java.text.SimpleDateFormat;
-
+//test
 public class TimerIfCheck {
     private static void TimeCheck(String time) {
 
